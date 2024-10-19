@@ -31,4 +31,3 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 ## Notes
 
 To solve it, instead of starting from the beginning and most probably overwriting the nums1 array, is better to start from the end and add values in a decreasing order, from right to left.
-
