@@ -16,9 +16,6 @@ This is a personal repository to store some LeetCode Problems that I manage to s
 | [0080 Remove Duplicates from Sorted Array II](<Problems/0080 Remove Duplicates from Sorted Array II>) |   [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150)    |
 | [0189 Rotate Array](<Problems/0189 Rotate Array>)                                                     |                       [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)                       |
 | [0122 Best Time to Buy and Sell Stock II](<Problems/0122 Best Time to Buy and Sell Stock II>)         | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150) |
-|   [0383 Ransom Note](<Problems/0383 Ransom Note>)      |[383. Ransom Note](https://leetcode.com/problems/ransom-note/?envType=study-plan-v2&envId=top-interview-150)  |
-
-
-
-
-
+| [0383 Ransom Note](<Problems/0383 Ransom Note>)                                                       |                              [383. Ransom Note](https://leetcode.com/problems/ransom-note/?envType=study-plan-v2&envId=top-interview-150)                              |
+| [205. Isomorphic Strings](<Problems/205. Isomorphic Strings>)                                         |                 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150)                 |
+| [228. Summary Ranges](<Problems/228. Summary Ranges>)                                                 |                           [228. Summary Ranges](https://leetcode.com/problems/summary-ranges?envType=study-plan-v2&envId=top-interview-150)                            |
